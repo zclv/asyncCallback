@@ -1,0 +1,10 @@
+H:\git\asyncApp\asyncApp\bin\Debug\asyncApp.exe.config
+H:\git\asyncApp\asyncApp\bin\Debug\asyncApp.exe
+H:\git\asyncApp\asyncApp\bin\Debug\asyncApp.pdb
+H:\git\asyncApp\asyncApp\obj\Debug\asyncApp.csprojAssemblyReference.cache
+H:\git\asyncApp\asyncApp\obj\Debug\asyncApp.FrmAsync.resources
+H:\git\asyncApp\asyncApp\obj\Debug\asyncApp.Properties.Resources.resources
+H:\git\asyncApp\asyncApp\obj\Debug\asyncApp.csproj.GenerateResource.cache
+H:\git\asyncApp\asyncApp\obj\Debug\asyncApp.csproj.CoreCompileInputs.cache
+H:\git\asyncApp\asyncApp\obj\Debug\asyncApp.exe
+H:\git\asyncApp\asyncApp\obj\Debug\asyncApp.pdb
