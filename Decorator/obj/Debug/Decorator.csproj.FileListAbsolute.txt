@@ -1,0 +1,7 @@
+H:\git\asyncApp\Decorator\bin\Debug\Decorator.exe.config
+H:\git\asyncApp\Decorator\bin\Debug\Decorator.exe
+H:\git\asyncApp\Decorator\bin\Debug\Decorator.pdb
+H:\git\asyncApp\Decorator\obj\Debug\Decorator.csprojAssemblyReference.cache
+H:\git\asyncApp\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+H:\git\asyncApp\Decorator\obj\Debug\Decorator.exe
+H:\git\asyncApp\Decorator\obj\Debug\Decorator.pdb

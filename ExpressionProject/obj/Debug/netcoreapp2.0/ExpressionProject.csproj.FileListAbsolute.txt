@@ -1,0 +1,11 @@
+H:\git\asyncApp\ExpressionProject\bin\Debug\netcoreapp2.0\ExpressionProject.deps.json
+H:\git\asyncApp\ExpressionProject\bin\Debug\netcoreapp2.0\ExpressionProject.runtimeconfig.json
+H:\git\asyncApp\ExpressionProject\bin\Debug\netcoreapp2.0\ExpressionProject.runtimeconfig.dev.json
+H:\git\asyncApp\ExpressionProject\bin\Debug\netcoreapp2.0\ExpressionProject.dll
+H:\git\asyncApp\ExpressionProject\bin\Debug\netcoreapp2.0\ExpressionProject.pdb
+H:\git\asyncApp\ExpressionProject\obj\Debug\netcoreapp2.0\ExpressionProject.csprojAssemblyReference.cache
+H:\git\asyncApp\ExpressionProject\obj\Debug\netcoreapp2.0\ExpressionProject.csproj.CoreCompileInputs.cache
+H:\git\asyncApp\ExpressionProject\obj\Debug\netcoreapp2.0\ExpressionProject.AssemblyInfoInputs.cache
+H:\git\asyncApp\ExpressionProject\obj\Debug\netcoreapp2.0\ExpressionProject.AssemblyInfo.cs
+H:\git\asyncApp\ExpressionProject\obj\Debug\netcoreapp2.0\ExpressionProject.dll
+H:\git\asyncApp\ExpressionProject\obj\Debug\netcoreapp2.0\ExpressionProject.pdb

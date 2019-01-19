@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asyncApp", "asyncApp\asyncA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asyncAppCallback", "asyncAppCallback\asyncAppCallback.csproj", "{D1CFB702-F2F5-4D64-99BE-A625C6274DDF}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionProject", "ExpressionProject\ExpressionProject.csproj", "{CCA3C1D4-BA6B-43BE-8012-30F13AEE2743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{79B74C1E-B4C4-4295-BA71-B39BA85E16A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{D1CFB702-F2F5-4D64-99BE-A625C6274DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1CFB702-F2F5-4D64-99BE-A625C6274DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1CFB702-F2F5-4D64-99BE-A625C6274DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA3C1D4-BA6B-43BE-8012-30F13AEE2743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA3C1D4-BA6B-43BE-8012-30F13AEE2743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA3C1D4-BA6B-43BE-8012-30F13AEE2743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA3C1D4-BA6B-43BE-8012-30F13AEE2743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B74C1E-B4C4-4295-BA71-B39BA85E16A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B74C1E-B4C4-4295-BA71-B39BA85E16A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B74C1E-B4C4-4295-BA71-B39BA85E16A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B74C1E-B4C4-4295-BA71-B39BA85E16A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
